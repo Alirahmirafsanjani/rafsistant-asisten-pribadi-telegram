@@ -1,0 +1,12 @@
+# Lingkungan Virtual & Cache Python
+.venv/
+__pycache__/
+*.pyc
+
+# Kredensial & Rahasia (SANGAT PENTING!)
+.env
+credentials.json
+token.json
+
+# File Database Lokal
+*.db
